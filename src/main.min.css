@@ -1039,8 +1039,8 @@ ul.link-dex {
 }
 
 .content-section-1 .wrap-dex-social a {
-  width: 155.62px;
-  height: 79.97px;
+  width: 120.62px;
+  height: 60.97px;
   background: #FFA927;
   border-radius: 8px;
   border: none;
@@ -1050,7 +1050,7 @@ ul.link-dex {
   color: #000000d7;
   align-items: center;
   justify-content: center;
-  font-size: 23px;
+  font-size: 20px;
 }
 
 .content-section-1 .wrap-dex-social a:hover {
